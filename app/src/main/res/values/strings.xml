@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Камень Ножницы Бумага Ящерица Спок</string>
+    <string name="rock">Камень 🪨</string>
+    <string name="scissors">Ножницы ✂️</string>
+    <string name="paper">Бумага 📜</string>
+    <string name="lizard">Ящерица 🦎</string>
+    <string name="spock">Спок 🖖</string>
+    <string name="user_task">Выберите знак для битвы с компьютером</string>
+    <string name="win">Вы победили!</string>
+    <string name="lose">Вы проиграли!</string>
+    <string name="draw">Ничья!</string>
+    <string name="back">Назад</string>
+    <string name="rules">Правила</string>
+    <string name="statistics">Статистика</string>
+    <string name="winCount">Побед</string>
+    <string name="loseCount">Поражений</string>
+    <string name="drawCount">Игр в ничью</string>
+    <string name="timeCount">Время наигранности</string>
+    <string name="rule">Направление стрелки указывает - кто над кем побеждает</string>
+</resources>
